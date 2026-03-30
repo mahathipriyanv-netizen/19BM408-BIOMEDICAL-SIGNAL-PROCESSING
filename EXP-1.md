@@ -102,8 +102,7 @@ xlabel('n'); ylabel('Amplitude');
 grid on;
 
 
-# OUTPUT GRAPH:
-<img width="680" height="551" alt="Screenshot 2026-03-30 195421" src="https://github.com/user-attachments/assets/7f568b7c-4ea9-4c4a-998c-5823c6ea057c" />
+
 
 
 # Result :

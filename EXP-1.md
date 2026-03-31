@@ -101,13 +101,13 @@ title('Damped Sinusoidal Signal');
 xlabel('n'); ylabel('Amplitude'); 
 grid on;
 
-OTUPUT GRAPH
-<img width="680" height="551" alt="Screenshot 2026-03-30 195421" src="https://github.com/user-attachments/assets/b8c4fcd5-3c8b-4ed1-857a-3516c5be6b05" />
-<img width="905" height="542" alt="Screenshot 2026-03-31 100644" src="https://github.com/user-attachments/assets/b1db8d3d-adb2-4948-80f8-aabbb50cb5fe" />
-<img width="847" height="550" alt="Screenshot 2026-03-31 100700" src="https://github.com/user-attachments/assets/43d2f968-bfaf-45b4-bf73-c3015f83d1db" />
-<img width="866" height="562" alt="Screenshot 2026-03-31 100724" src="https://github.com/user-attachments/assets/818bf3e1-1046-46d0-9e19-7d7bb3d02bab" />
-<img width="817" height="550" alt="Screenshot 2026-03-31 100741" src="htUnot tps://github.com/user-attachments/assets/f23c3141-50f0-4830-ab61-431214845c43" />
-<img width="852" height="546" alt="Screenshot 2026-03-31 100755" src="https://github.com/user-attachments/assets/4e986144-0f56-4192-9983-d7b1b09e5717" />
+OTUPUT GRAPH:
+<img width="680" height="551" alt="Screenshot 2026-03-30 195421" src="https://github.com/user-attachments/assets/018c19df-53da-4ca8-bf42-8d2fc65a17df" />
+<img width="905" height="542" alt="Screenshot 2026-03-31 100644" src="https://github.com/user-attachments/assets/199326de-8f01-4e36-be6c-763f50ac7beb" />
+<img width="847" height="550" alt="Screenshot 2026-03-31 100700" src="https://github.com/user-attachments/assets/d936963a-38ce-41ce-88ed-4c8648d10e9b" />
+<img width="866" height="562" alt="Screenshot 2026-03-31 100724" src="https://github.com/user-attachments/assets/82f2652f-0737-4ea3-863c-80c8d9dc9147" />
+<img width="817" height="550" alt="Screenshot 2026-03-31 100741" src="https://github.com/user-attachments/assets/1498b075-2457-4e8d-86d9-25d76e64fe1f" />
+<img width="852" height="546" alt="Screenshot 2026-03-31 100755" src="https://github.com/user-attachments/assets/96984a23-dacc-467e-b9f9-8377c0c3a2f0" />
 
 OUTPUT OBSERVATION
 

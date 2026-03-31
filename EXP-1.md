@@ -3,7 +3,7 @@
 To generate and plot standard discrete-time signals using MATLAB.
 # APPARATUS REQUIRED:
 •	Computer / Laptop
-•	MATLAB software
+•	MATLAB software 
 # THEORY:
 Discrete-time signals are signals defined only at integer values of time (n).
 These signals are basic building blocks in Digital Signal Processing (DSP) and are used for system analysis, filtering, and signal modeling.

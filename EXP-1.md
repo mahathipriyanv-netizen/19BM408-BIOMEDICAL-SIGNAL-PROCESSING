@@ -43,7 +43,7 @@ x(n)=a^n sin⁡(ωn)
 5.	Label the axes and title
 6.	Stop the program
 
-# MATLAB CODE:
+# MATLAB CODE: 
 clc;
 clear;
 close all;

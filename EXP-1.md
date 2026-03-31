@@ -98,7 +98,7 @@ x6 = (0.9.^n1).*sin(0.4*pi*n1);
 figure;
 stem(n1, x6, 'filled');
 title('Damped Sinusoidal Signal');
-xlabel('n'); ylabel('Amplitude');
+xlabel('n'); ylabel('Amplitude'); 
 grid on;
 
 OTUPUT GRAPH

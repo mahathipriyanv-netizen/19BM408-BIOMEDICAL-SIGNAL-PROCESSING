@@ -116,7 +116,7 @@ Unit step is zero for n<0 and one for n>=0
 Ramp signal increase linearly
 Exponential signal decays since a<1
 Sinusodial signal oscillates
-Damped sinusoid oscillates with decreasing amplitude 
+Damped sinusoid oscillates with decreasing amplitude
 
 
 # Result :

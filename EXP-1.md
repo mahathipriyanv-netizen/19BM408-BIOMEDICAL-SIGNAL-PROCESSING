@@ -44,12 +44,14 @@ x(n)=a^n sin⁡(ωn)
 6.	Stop the program
 
 # MATLAB CODE: 
+
 clc;
 clear;
 close all;
 
 %% Sample index
 n = -10:10;
+
 
 %% 1. Unit Impulse Signal
 x1 = (n == 0);
@@ -67,6 +69,7 @@ title('Unit Step Signal');
 xlabel('n'); ylabel('Amplitude');
 grid on;
 
+
 %% 3. Ramp Signal
 n1 = 0:10;
 x3 = n1;
@@ -76,6 +79,8 @@ title('Ramp Signal');
 xlabel('n'); ylabel('Amplitude');
 grid on;
 
+
+
 %% 4. Exponential Signal
 a = 0.8;
 x4 = a.^n1;
@@ -84,6 +89,8 @@ stem(n1, x4, 'filled');
 title('Exponential Signal');
 xlabel('n'); ylabel('Amplitude');
 grid on;
+
+
 
 %% 5. Sinusoidal Signal
 x5 = sin(0.3*pi*n1);

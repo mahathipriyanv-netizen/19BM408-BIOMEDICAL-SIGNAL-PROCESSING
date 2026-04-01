@@ -45,68 +45,10 @@ x(n)=a^n sin⁡(ωn)
 
 # MATLAB CODE: 
 
-clc;
-clear;
-close all;
+<img width="386" height="968" alt="Screenshot 2026-04-01 120830" src="https://github.com/user-attachments/assets/a3ba189d-d17d-472c-b14e-10f374eac9a6" />
+<img width="380" height="834" alt="Screenshot 2026-04-01 120849" src="https://github.com/user-attachments/assets/b87b7e92-cfd5-4653-804a-df55181456e9" />
+<img width="348" height="598" alt="Screenshot 2026-04-01 120904" src="https://github.com/user-attachments/assets/4031ea4a-7520-4740-bec8-30e7e115388b" />
 
-%% Sample index
-n = -10:10;
-
-
-%% 1. Unit Impulse Signal
-x1 = (n == 0);
-figure;
-stem(n, x1, 'filled');
-title('Unit Impulse Signal');
-xlabel('n'); ylabel('Amplitude');
-grid on;
-
-%% 2. Unit Step Signal
-x2 = (n >= 0);
-figure;
-stem(n, x2, 'filled');
-title('Unit Step Signal');
-xlabel('n'); ylabel('Amplitude');
-grid on;
-
-
-%% 3. Ramp Signal
-n1 = 0:10;
-x3 = n1;
-figure;
-stem(n1, x3, 'filled');
-title('Ramp Signal');
-xlabel('n'); ylabel('Amplitude');
-grid on;
-
-
-
-%% 4. Exponential Signal
-a = 0.8;
-x4 = a.^n1;
-figure;
-stem(n1, x4, 'filled');
-title('Exponential Signal');
-xlabel('n'); ylabel('Amplitude');
-grid on;
-
-
-
-%% 5. Sinusoidal Signal
-x5 = sin(0.3*pi*n1);
-figure;
-stem(n1, x5, 'filled');
-title('Sinusoidal Signal');
-xlabel('n'); ylabel('Amplitude');
-grid on;
-
-%% 6. Damped Sinusoidal Signal
-x6 = (0.9.^n1).*sin(0.4*pi*n1);
-figure;
-stem(n1, x6, 'filled');
-title('Damped Sinusoidal Signal');
-xlabel('n'); ylabel('Amplitude'); 
-grid on;
 
 OTUPUT GRAPH:
 <img width="680" height="551" alt="Screenshot 2026-03-30 195421" src="https://github.com/user-attachments/assets/018c19df-53da-4ca8-bf42-8d2fc65a17df" />
